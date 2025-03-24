@@ -1,4 +1,8 @@
 {
-  "singleQuote": true,
-  "trailingComma": "all"
+  "singleQuote": false,
+  "trailingComma": "all",
+  "singleAttributePerLine": false,
+  "semi": true,
+  "bracketSpacing": true,
+  "bracketSameLine": false
 }
